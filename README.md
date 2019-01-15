@@ -1,7 +1,8 @@
 # kadai2
 
 ## Description
-ブラウザから数をカウントしているものが見られます。
+講義で扱ったものです。
 
 ## Demo
 
+https://youtu.be/__O8PkgyBZQ
